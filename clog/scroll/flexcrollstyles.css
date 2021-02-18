@@ -1,0 +1,31 @@
+.scrollgeneric {
+line-height: 1px;
+font-size: 1px;
+position: absolute;
+top: 0; left: 0;
+}
+
+.vscrollerbase {
+width: 10px;
+background-color: #F4F1EC;
+}
+.vscrollerbar {
+width: 10px;
+background-color: #15A6D2;
+}
+.hscrollerbase {
+height: 10px;
+background-color: #F4F1EC;
+}
+.hscrollerbar {
+height: 10px;
+background-color: #15A6D2;
+}
+
+.scrollerjogbox {
+width: 10px;
+height: 10px;
+top: auto; left: auto;
+bottom: 0px; right: 0px;
+background-color: gray;
+}
